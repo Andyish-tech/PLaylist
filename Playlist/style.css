@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-blue{
+    color: rgb(15, 15, 134);
+    background-color: white;
+}
+.heaven{
+    background-image: url(./open.jpg);
+}
